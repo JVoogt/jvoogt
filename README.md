@@ -60,7 +60,7 @@
 
 ---
 
-[![JP's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvoogt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![JP's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvoogt&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
