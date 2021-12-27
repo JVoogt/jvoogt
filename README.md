@@ -48,6 +48,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Learning TSQL for Analytics](https://blog.voogie.online/how2/2020/12/02/Learning-TSQL-for-Analytics/)
+- [Create SQL Code Snippets in Azure Data Studio](https://blog.voogie.online/how2/2020/11/27/Create-SQL-Code-Snippets-in-Azure-Data-Studio/)
+- [Reading SAS files into Azure Databricks](https://blog.voogie.online/how2/2020/11/24/Read-SAS-files-into-a-Dataframe-in-Azure-Databricks/)
+- [How to Mount Azure Storage to Azure Databricks](https://blog.voogie.online/how2/2020/11/23/Mounting-Azure-Storage-in-Azure_Databricks-Using-SAS/)
+- [Azure Synapse Query Monitoring](https://blog.voogie.online/how2/2020/11/05/Azure-Synapse_Query-Monitoring/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://blog.voogie.online)
