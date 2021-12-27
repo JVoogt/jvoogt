@@ -59,6 +59,9 @@
 
 ---
 
+[![JP's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvoogt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 [website]: https://blog.voogie.online
 [twitter]: https://twitter.com/jpvoogt
