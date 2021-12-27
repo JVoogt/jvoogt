@@ -22,19 +22,19 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/visualstudiocode.svg" />][code.visualstudio.com/]
-[<img align="left" alt="Microsoft SQL Server" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/microsoftsqlserver.svg" />][kampi.co.za]
-[<img align="left" alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/postgresql.svg" />][kampi.co.za]
-[<img align="left" alt="My SQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/mysql.svg" />][kampi.co.za]
-[<img align="left" alt="Microsoft Azure" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/microsoftazure.svg" />][kampi.co.za]
-[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/python.svg" />][kampi.co.za]
-[<img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/pandas.svg" />][kampi.co.za]
-[<img align="left" alt="SciKit-Learn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/scikitlearn.svg" />][kampi.co.za]
-[<img align="left" alt="Azure Databricks" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/databricks.svg" />][kampi.co.za]
-[<img align="left" alt="Jekyll" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/jekyll.svg" />][kampi.co.za]
-[<img align="left" alt="Blazor" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/blazor.svg" />][kampi.co.za]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/git.svg" />][kampi.co.za]
-[<img align="left" alt="Github" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" />][kampi.co.za]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/visualstudiocode.svg" />][website]
+[<img align="left" alt="Microsoft SQL Server" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/microsoftsqlserver.svg" />][website]
+[<img align="left" alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/postgresql.svg" />][website]
+[<img align="left" alt="My SQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/mysql.svg" />][website]
+[<img align="left" alt="Microsoft Azure" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/microsoftazure.svg" />][website]
+[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/python.svg" />][website]
+[<img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/pandas.svg" />][website]
+[<img align="left" alt="SciKit-Learn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/scikitlearn.svg" />][website]
+[<img align="left" alt="Azure Databricks" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/databricks.svg" />][website]
+[<img align="left" alt="Jekyll" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/jekyll.svg" />][website]
+[<img align="left" alt="Blazor" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/blazor.svg" />][website]
+[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/git.svg" />][website]
+[<img align="left" alt="Github" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" />][website]
 <br />
 <br />
 
