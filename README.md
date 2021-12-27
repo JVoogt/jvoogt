@@ -39,6 +39,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Creating Custom Code Snippets in Azure Data Studio](https://www.youtube.com/watch?v=4Bd2Ibb3wyY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](tps://www.youtube.com/channel/UCaunJ16mYqMye0JEP2tFyqw)
