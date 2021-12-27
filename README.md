@@ -1,7 +1,7 @@
 ### Hi there, I'm JP - aka [JP Voogt][website] 👋 
 
 [![Website](https://img.shields.io/website?label=blog.voogie.online&style=for-the-badge&url=https%3A%2F%2Fblog.voogie.online)](https://blog.voogie.online)
-[![Twitter Follow](https://img.shields.io/twitter/follow/jvoogt?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjvoogt&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/jpvoogt?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjpvoogt&screen_name=JPVoogt)
 
 ## South African Data Tinkerer, @microsoft Fanboy, @dataplatformjhb leader, Formula 1 enthusiasts, Father and Founder of [Kampi.co.za][Kampi.co.za]
 
