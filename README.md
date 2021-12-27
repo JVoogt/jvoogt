@@ -3,10 +3,11 @@
 [![Website](https://img.shields.io/website?label=blog.voogie.online&style=for-the-badge&url=https%3A%2F%2Fblog.voogie.online)](https://blog.voogie.online)
 [![Twitter Follow](https://img.shields.io/twitter/follow/jpvoogt?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjpvoogt&screen_name=JPVoogt)
 
-## South African Data Tinkerer, @microsoft Fanboy, @dataplatformjhb leader, Formula 1 enthusiasts, Father and Founder of [Kampi.co.za][Kampi.co.za]
+## South African Data Tinkerer, [Microsoft][github.com/microsoft] Fanboy,  Formula 1 enthusiasts, Father and Co-Founder of [Kampi.co.za][Kampi.co.za]
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 I’m a Data Tinkerer 🤣
+- 👯 I’m a Massive Microsoft fanboy
+- 🏎️ Formula 1 enthusiast
 - 🥅 2022 Goals: Go camping more
 - ⚡ Fun fact: I love to play with IoT devices
 
